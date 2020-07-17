@@ -6,7 +6,7 @@
   * Ciclo de vida
   * Código
 
-![sw-proxy](res/sw-proxy.jpg)
+![sw-proxy](res/sw-proxy.jpeg)
 ![sw-lifecycle2](res/sw-lifecycle2.png)
 
 [comment]: <> (VAPID_PUBLIC_KEY = BG6LCkD5xsL4IuD81gEqm9NLkTftXB8y1LX5P2qbtnBaMC9150BFJqKFboKq--t7SEP8TC0p6YTy-9nuIpsG6ps)
